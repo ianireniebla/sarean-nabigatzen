@@ -23,7 +23,7 @@
   <string role="key" value="_contextPlace"></string>
   <unicode value="classroom"></unicode>
   <string role="key" value="_description"></string>
-  <unicode value="Interneta eta gailu digitalen erabileraren inguruko baliabide digitala"></unicode>
+  <unicode value="Interneta eta sare sozialen erabileraren inguruko hausnarketarako baliabide digitala"></unicode>
   <string role="key" value="_docType"></string>
   <unicode value="HTML5"></unicode>
   <string role="key" value="_exportElp"></string>
@@ -79,7 +79,7 @@
   <string role="key" value="_lang"></string>
   <unicode value="eu"></unicode>
   <string role="key" value="_learningResourceType"></string>
-  <unicode value="closed exercise or problem"></unicode>
+  <unicode value="discussion activity"></unicode>
   <string role="key" value="_levelNames"></string>
   <list>
    <unicode value="Gaia"></unicode>
@@ -91,7 +91,7 @@
   <string role="key" value="_name"></string>
   <unicode value="Kontuz_nabigatzen"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="16"></int>
+  <int value="17"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="15"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -204,7 +204,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="267"></int>
+                  <int value="270"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -218,7 +218,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="8_120_2.12"></unicode>
+                <unicode value="8_120_2.13"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -229,7 +229,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="7a8aba2593f367ac.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmpfjhqyf\\7a8aba2593f367ac.jpg"></string>
+                  <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmp7xruc1\\7a8aba2593f367ac.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="2367679aa87ef5c7d33f751bc50fc83e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -258,7 +258,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="13"></int>
+           <int value="14"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -312,7 +312,7 @@
       <instance class="exe.engine.node.Node" reference="8">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Menpekoak gara?"></unicode>
+        <unicode value="1. Menpekoak gara?"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="6">
@@ -472,7 +472,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:Menpekoak%20gara%3F"></string>
+        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:1.%20Menpekoak%20gara%3F"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -484,7 +484,7 @@
       <instance class="exe.engine.node.Node" reference="11">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Aztarna digitala"></unicode>
+        <unicode value="2. Aztarna digitala"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="9">
@@ -652,7 +652,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="268"></int>
+                     <int value="271"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -666,7 +666,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_128_2.6"></unicode>
+                   <unicode value="10_128_2.7"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -677,7 +677,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmpfjhqyf\\img0.1.png"></string>
+                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmp7xruc1\\img0.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ceec97106a6f4c34a0249e741ff650b3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -706,7 +706,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="7"></int>
+              <int value="8"></int>
               <string role="key" value="parentNode"></string>
               <reference key="11"></reference>
              </dictionary>
@@ -750,7 +750,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:Aztarna%20digitala"></string>
+        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:2.%20Aztarna%20digitala"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -762,7 +762,7 @@
       <instance class="exe.engine.node.Node" reference="15">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Fake news"></unicode>
+        <unicode value="3. Fake news"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="13">
@@ -911,7 +911,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:Fake%20news"></string>
+        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:3.%20Fake%20news"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -923,7 +923,7 @@
       <instance class="exe.engine.node.Node" reference="18">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Musika sexista al da?"></unicode>
+        <unicode value="4. Musika sexista al da?"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="16">
@@ -1125,7 +1125,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:Musika%20sexista%20al%20da%3F"></string>
+        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:4.%20Musika%20sexista%20al%20da%3F"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1137,7 +1137,7 @@
       <instance class="exe.engine.node.Node" reference="21">
        <dictionary>
         <string role="key" value="_title"></string>
-        <unicode value="Errealitatea vs Itxurakeria"></unicode>
+        <unicode value="5. Errealitatea vs Itxurakeria"></unicode>
         <string role="key" value="idevices"></string>
         <list>
          <instance class="exe.engine.jsidevice.JsIdevice" reference="19">
@@ -1223,7 +1223,8 @@
 &lt;p&gt;&lt;a href=&quot;https://genial.guru/articles/estrella-de-instagram-no-tuvo-miedo-de-mostrar-lo-que-sucede-detras-de-sus-fotos-ideales-1112560/&quot;&gt;https://genial.guru/articles/estrella-de-instagram-no-tuvo-miedo-de-mostrar-lo-que-sucede-detras-de-sus-fotos-ideales-1112560/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Sare sozialetan proiektatzen dugun irudiaren eta errealitatearen arteko aldeari buruz hausnartzea garrantzitsua da geure burua eta mundu digitalean besteekin dugun harremana sakonago ulertzeko.&lt;/p&gt;
 &lt;p&gt;Hona hemen hausnarketa-prozesu honetan lagun dezaketen jarduera batzuk:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=I5vQk1mukZ4&quot;&gt;https://www.youtube.com/watch?v=I5vQk1mukZ4&lt;/a&gt;&lt;br /&gt;&lt;strong&gt;1.- Autohausnarketa:&lt;/strong&gt; Zuen sare sozialen profilen azterketa egin, azken hilabetean argitaratutako edukiak aztertuz eta zer irudi transmititzen duten hausnartuz.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=I5vQk1mukZ4&quot;&gt;https://www.youtube.com/watch?v=I5vQk1mukZ4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;1.- Autohausnarketa:&lt;/strong&gt; Zuen sare sozialen profilen azterketa egin, azken hilabetean argitaratutako edukiak aztertuz eta zer irudi transmititzen duten hausnartuz.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2.- Argitalpenak eta sentimenduak alderatzen: &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Hautatu zure sare sozialetan argitaratu berri dozun argazkiren bat eta aztertu arretaz. Deskriba dezakezu nola sentitzen zinen benetan argazki hori atera zenuenean edo argitalpen hori idatzi zenuenean? Desberdintasunik egon al zen proiektatu zenuen irudiaren eta benetan bizitzen ari zarenaren artean?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3.- Aukeratu lagun baten azken argitalpena&lt;/strong&gt; sare sozialetan eta idatzi argitalpen horrek kanpotik ematen dizun inpresioa. Gero, imajinatu nolakoa izan daitekeen errealitatea argitalpen horren atzean, eta idatzi zure laguna zelan sentitu zitekeen une horretan.&lt;/p&gt;
@@ -1251,7 +1252,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="269"></int>
+                     <int value="272"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1265,7 +1266,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="9_127_2.12"></unicode>
+                   <unicode value="9_127_2.13"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1276,7 +1277,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="vir_319568_24203_eres_adicto_al_postureo.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmpfjhqyf\\vir_319568_24203_eres_adicto_al_postureo.jpg"></string>
+                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmp7xruc1\\vir_319568_24203_eres_adicto_al_postureo.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6277a16ee27277cb5a976278d311b69"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1305,7 +1306,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="13"></int>
+              <int value="14"></int>
               <string role="key" value="parentNode"></string>
               <reference key="21"></reference>
              </dictionary>
@@ -1349,7 +1350,7 @@
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:Errealitatea%20vs%20Itxurakeria"></string>
+        <string value="exe-node:Sareak%20ez%20zaitzala%20harrapatu%21:5.%20Errealitatea%20vs%20Itxurakeria"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1870,7 +1871,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="31"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -1883,7 +1884,7 @@
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
-    <unicode value="Interneta eta gailu digitalen erabileraren inguruko baliabide digitala"></unicode>
+    <unicode value="Interneta eta sare sozialen erabileraren inguruko hausnarketarako baliabide digitala"></unicode>
     <string role="key" value="format"></string>
     <unicode value=""></unicode>
     <string role="key" value="identifier"></string>
@@ -1917,7 +1918,7 @@
   <string role="key" value="isLoading"></string>
   <bool value="0"></bool>
   <string role="key" value="license"></string>
-  <unicode value="creative commons: attribution - share alike 4.0"></unicode>
+  <unicode value="creative commons: attribution - non commercial - share alike 4.0"></unicode>
   <string role="key" value="lom"></string>
   <instance class="exe.engine.lom.lomsubs.lomSub">
    <dictionary>
@@ -2046,40 +2047,6 @@
           </instance>
          </dictionary>
         </instance>
-        <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleSub">
-         <dictionary>
-          <string role="key" value="extensiontype_"></string>
-          <none></none>
-          <string role="key" value="source"></string>
-          <instance class="exe.engine.lom.lomsubs.sourceValueSub">
-           <dictionary>
-            <string role="key" value="extensiontype_"></string>
-            <none></none>
-            <string role="key" value="string"></string>
-            <list></list>
-            <string role="key" value="uniqueElementName"></string>
-            <string value="source"></string>
-            <string role="key" value="valueOf_"></string>
-            <string value="LOMv1.0"></string>
-           </dictionary>
-          </instance>
-          <string role="key" value="value"></string>
-          <instance class="exe.engine.lom.lomsubs.intendedEndUserRoleValueSub">
-           <dictionary>
-            <string role="key" value="extensiontype_"></string>
-            <none></none>
-            <string role="key" value="source"></string>
-            <none></none>
-            <string role="key" value="uniqueElementName"></string>
-            <string value="value"></string>
-            <string role="key" value="value"></string>
-            <none></none>
-            <string role="key" value="valueOf_"></string>
-            <string value="tutor"></string>
-           </dictionary>
-          </instance>
-         </dictionary>
-        </instance>
        </list>
        <string role="key" value="interactivityLevel"></string>
        <none></none>
@@ -2127,7 +2094,7 @@
             <string role="key" value="value"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="exercise"></string>
+            <string value="problem statement"></string>
            </dictionary>
           </instance>
          </dictionary>
@@ -2186,7 +2153,7 @@
       <list></list>
       <string role="key" value="description"></string>
       <list>
-       <instance class="exe.engine.lom.lomsubs.descriptionSub">
+       <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
         <dictionary>
          <string role="key" value="extensiontype_"></string>
          <none></none>
@@ -2197,7 +2164,7 @@
             <string role="key" value="language"></string>
             <string value="eu"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="Interneta eta gailu digitalen erabileraren inguruko baliabide digitala"></string>
+            <string value="Interneta eta sare sozialen erabileraren inguruko hausnarketarako baliabide digitala"></string>
            </dictionary>
           </instance>
          </list>
@@ -2214,7 +2181,7 @@
            <string role="key" value="uniqueElementName"></string>
            <string value="catalog"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="My Catalog"></unicode>
+           <string value="My Catalog"></string>
           </dictionary>
          </instance>
          <string role="key" value="entry"></string>
@@ -2223,7 +2190,7 @@
            <string role="key" value="uniqueElementName"></string>
            <string value="entry"></string>
            <string role="key" value="valueOf_"></string>
-           <unicode value="4a7d755e-34a5-410a-a7d4-601881136623"></unicode>
+           <string value="4a7d755e-34a5-410a-a7d4-601881136623"></string>
           </dictionary>
          </instance>
         </dictionary>
@@ -2261,7 +2228,7 @@
          </instance>
         </list>
         <string role="key" value="uniqueElementName"></string>
-        <none></none>
+        <string value="title"></string>
        </dictionary>
       </instance>
       <string role="key" value="uniqueElementName"></string>
@@ -2276,7 +2243,7 @@
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="32">
+         <instance class="exe.engine.lom.lomsubs.dateSub">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -2308,14 +2275,14 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="uniqueElementName"></string>
-           <none></none>
+           <string value="date"></string>
            <string role="key" value="valueOf_"></string>
            <none></none>
           </dictionary>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="33">
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -2330,7 +2297,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="34">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -2367,7 +2334,7 @@
       <string role="key" value="status"></string>
       <none></none>
       <string role="key" value="uniqueElementName"></string>
-      <none></none>
+      <string value="lifeCycle"></string>
       <string role="key" value="version"></string>
       <none></none>
      </dictionary>
@@ -2380,10 +2347,53 @@
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="32"></reference>
+         <instance class="exe.engine.lom.lomsubs.dateSub">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2024-03-18T09:03:53.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="eu"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Metadatuen sorrera data"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="date"></string>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="33"></reference>
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Rekaldeberri, Eskurtze, Pagasarribide, Bertendona, Unamuno eta San Adrian ikastetxeetako Digitalizazio erreferenteak eta BeA figurak EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -2391,7 +2401,18 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="34"></reference>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -2448,14 +2469,14 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="uniqueElementName"></string>
-           <none></none>
+           <string value="date"></string>
            <string role="key" value="valueOf_"></string>
            <none></none>
           </dictionary>
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub">
+          <instance class="exe.engine.lom.lomsubs.VCardSub">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -2577,7 +2598,7 @@
       <string role="key" value="description"></string>
       <none></none>
       <string role="key" value="uniqueElementName"></string>
-      <none></none>
+      <string value="rights"></string>
      </dictionary>
     </instance>
     <string role="key" value="technical"></string>
@@ -2827,7 +2848,7 @@
             <string role="key" value="value"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="closed exercise or problem"></string>
+            <string value="discussion activity"></string>
            </dictionary>
           </instance>
          </dictionary>
@@ -2897,7 +2918,7 @@
             <string role="key" value="language"></string>
             <string value="eu"></string>
             <string role="key" value="valueOf_"></string>
-            <string value="Interneta eta gailu digitalen erabileraren inguruko baliabide digitala"></string>
+            <string value="Interneta eta sare sozialen erabileraren inguruko hausnarketarako baliabide digitala"></string>
            </dictionary>
           </instance>
          </list>
@@ -2976,7 +2997,7 @@
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="35">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="32">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -3015,7 +3036,7 @@
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="36">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="33">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -3030,7 +3051,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="37">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="34">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -3080,10 +3101,10 @@
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="35"></reference>
+         <reference key="32"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="36"></reference>
+          <reference key="33"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -3091,7 +3112,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="37"></reference>
+           <reference key="34"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -3327,7 +3348,7 @@
           <string role="key" value="value"></string>
           <none></none>
           <string role="key" value="valueOf_"></string>
-          <string value="creative commons: attribution - share alike"></string>
+          <string value="creative commons: attribution - non commercial - share alike"></string>
          </dictionary>
         </instance>
        </dictionary>
