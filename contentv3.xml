@@ -204,7 +204,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="270"></int>
+                  <int value="276"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -218,7 +218,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="8_120_2.13"></unicode>
+                <unicode value="8_120_2.15"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -229,7 +229,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="7a8aba2593f367ac.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmp7xruc1\\7a8aba2593f367ac.jpg"></string>
+                  <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmphr9pir\\7a8aba2593f367ac.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="2367679aa87ef5c7d33f751bc50fc83e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -258,7 +258,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="14"></int>
+           <int value="16"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -652,7 +652,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="271"></int>
+                     <int value="277"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -666,7 +666,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="10_128_2.7"></unicode>
+                   <unicode value="10_128_2.9"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="12">
                     <dictionary>
@@ -677,7 +677,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="img0.1.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmp7xruc1\\img0.1.png"></string>
+                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmphr9pir\\img0.1.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ceec97106a6f4c34a0249e741ff650b3"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -706,7 +706,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="8"></int>
+              <int value="10"></int>
               <string role="key" value="parentNode"></string>
               <reference key="11"></reference>
              </dictionary>
@@ -1252,7 +1252,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="272"></int>
+                     <int value="278"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1266,7 +1266,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="9_127_2.13"></unicode>
+                   <unicode value="9_127_2.15"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1277,7 +1277,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="vir_319568_24203_eres_adicto_al_postureo.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmp7xruc1\\vir_319568_24203_eres_adicto_al_postureo.jpg"></string>
+                     <string value="c:\\users\\ux360u\\appdata\\local\\temp\\tmphr9pir\\vir_319568_24203_eres_adicto_al_postureo.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6277a16ee27277cb5a976278d311b69"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1306,7 +1306,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="14"></int>
+              <int value="16"></int>
               <string role="key" value="parentNode"></string>
               <reference key="21"></reference>
              </dictionary>
@@ -1766,7 +1766,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;th&gt;Lizentzia&lt;/th&gt;
-&lt;td&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot; rel=&quot;license&quot; class=&quot;cc cc-by-sa&quot;&gt;&lt;span&gt;&lt;/span&gt;Creative Commons BY-SA 4.0&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot; rel=&quot;license&quot; class=&quot;cc cc-by-sa&quot;&gt;Creative Commons BY-NC-SA 4.0&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
